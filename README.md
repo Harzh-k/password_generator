@@ -1,22 +1,18 @@
-# Rock Paper Scissor
+# Password Generator 🔐
 
-A simple command-line Rock–Paper–Scissors game written in Python.
+A beginner-friendly Python project that generates strong and customizable passwords.  
+You can choose how many letters, numbers, and symbols you want, and the program will create a randomized password for you.  
 
-## Description
-This is a small, beginner-friendly Python script that plays Rock–Paper–Scissors against the computer. It includes ASCII art for each choice and simple win/lose logic.
+## ✨ Features
+- Choose the number of **letters**, **numbers**, and **symbols** in your password.  
+- Always ensures at least one uppercase letter for better security.  
+- Randomly shuffles characters to increase password strength.  
+- Lightweight and uses only Python standard library.  
 
-## Features
-- Command-line play
-- Fun ASCII art for rock, paper and scissors
-- Minimal dependencies (only Python standard library)
+## 📋 Requirements
+- Python 3.6 or above  
 
-## Requirements
-- Python 3.6+
-
-## How to run
-1. Clone or download the repository.
-2. Run the script:
-```bash
-python your_file.py
-# or
-python3 your_file.py
+## ▶️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/password-generator.git
